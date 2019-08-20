@@ -1,4 +1,5 @@
-from math import *
+from math import floor, ceil, sqrt
+#from math import *
 
 my_num = -5
 
