@@ -1,6 +1,6 @@
 from Student import Student
 
-student1 = Student('Kelsey', 'Informartion System', 3.1, False)
-student2 = Student('Pam', 'Art', 2.5, True)
+student1 = Student('Kelsey', 'Informartion System', 3.1)
+student2 = Student('Pam', 'Art', 3.8)
 
-print(student1.gpa)
+print(student2.on_honor_roll())
